@@ -1,10 +1,10 @@
-package com.example.browserstack
+package com.engineerhooon
 
 import org.junit.jupiter.api.Test
 import org.springframework.boot.test.context.SpringBootTest
 
 @SpringBootTest
-class BrowserStackApplicationTests {
+class LogStreamerApplicationTests {
 
     @Test
     fun contextLoads() {

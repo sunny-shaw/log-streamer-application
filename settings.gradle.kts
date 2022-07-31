@@ -1,1 +1,1 @@
-rootProject.name = "browser-stack"
+rootProject.name = "log-streamer-application"
